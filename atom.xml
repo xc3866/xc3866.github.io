@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xc3866.github.io</id>
     <title>X-cube</title>
-    <updated>2019-10-30T00:52:34.279Z</updated>
+    <updated>2019-10-30T03:56:52.512Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xc3866.github.io"/>
     <link rel="self" href="https://xc3866.github.io/atom.xml"/>
@@ -10,6 +10,21 @@
     <logo>https://xc3866.github.io/images/avatar.png</logo>
     <icon>https://xc3866.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, X-cube</rights>
+    <entry>
+        <title type="html"><![CDATA[WHO AM I ?]]></title>
+        <id>https://xc3866.github.io/post/who-am-i</id>
+        <link href="https://xc3866.github.io/post/who-am-i">
+        </link>
+        <updated>2019-10-29T09:46:06.000Z</updated>
+        <summary type="html"><![CDATA[<p>👦  我将通过此篇文章告诉您，我是一个什么样的人~</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👦  我将通过此篇文章告诉您，我是一个什么样的人~</p>
+<!-- more -->
+<p>此页面还在施工中，不过也可以点击查看~ <sub>（页面更新与撰写是同步的）</sub></p>
+<hr>
+<h4 id="求职向个人介绍">👉<a href="https://www.notion.so/WHO-AM-I-1aa01b97ea9d41f881b42aad449be529">求职向个人介绍</a></h4>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MY ART]]></title>
         <id>https://xc3866.github.io/post/my-art</id>
