@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xc3866.github.io</id>
     <title>X-cube</title>
-    <updated>2019-10-31T12:32:00.449Z</updated>
+    <updated>2019-11-03T08:36:50.431Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xc3866.github.io"/>
     <link rel="self" href="https://xc3866.github.io/atom.xml"/>
@@ -17,13 +17,26 @@
         </link>
         <updated>2019-10-29T09:46:06.000Z</updated>
         <summary type="html"><![CDATA[<p>👦  我将通过此篇文章告诉您，我是一个什么样的人~</p>
-<p>👨‍🎓:   内容偏向于求职~</p>
+<p>🤵   内容偏向于求职~</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>👦  我将通过此篇文章告诉您，我是一个什么样的人~</p>
-<p>👨‍🎓:   内容偏向于求职~</p>
+<p>🤵   内容偏向于求职~</p>
 <!-- more -->
 <hr>
 <h4 id="点击此处前往求职向个人介绍">点击此处前往👉<a href="https://www.notion.so/WHO-AM-I-1aa01b97ea9d41f881b42aad449be529">求职向个人介绍</a></h4>
+<hr>
+<h3 id="阅读姿势plz-read-this-first">#### 阅读姿势👇<code>(Plz Read This First)</code></h3>
+<blockquote>
+<ul>
+<li>
+<p>​	前方有三角（▲）的模块是下拉折叠模块，点击可展开内容。</p>
+<img src="https://picbed-gz-1300542357.cos.ap-guangzhou.myqcloud.com/who am i1.gif" style="zoom:67%;" />
+</li>
+<li>
+<p>点击可以展开卡片，卡片左上角“Open the page”可全屏显示。点击顶部导航栏可返回上级菜单。</p>
+<img src="https://picbed-gz-1300542357.cos.ap-guangzhou.myqcloud.com/who am i2.gif" style="zoom:67%;" /></li>
+</ul>
+</blockquote>
 ]]></content>
     </entry>
     <entry>
